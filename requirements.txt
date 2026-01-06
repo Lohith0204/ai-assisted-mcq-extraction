@@ -1,0 +1,5 @@
+streamlit
+groq
+jsonschema
+pdfplumber
+python-docx
