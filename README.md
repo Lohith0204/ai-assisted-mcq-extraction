@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (paste the deployed streamlit link here)
+🚀 **Streamlit App** → https://ai-assisted-mcq-extraction-du7loiuj3yzba8vyj62jkz.streamlit.app/
 
 ## Overview
 The AI-Assisted MCQ Extraction System is an artificial intelligence–based application that automatically extracts Multiple Choice Questions (MCQs) from unstructured educational documents.This project demonstrates the practical use of Large Language Models (LLMs) for structured information extraction. The system processes documents such as TXT, PDF, and DOCX, converts them into plain text, and intelligently extracts MCQs in a validated JSON format.The application avoids training models from scratch and instead leverages pre-trained LLMs, making it efficient, scalable, and suitable for real-world academic and internship use cases.
